@@ -25,6 +25,11 @@
 			path = FireChat;
 			sourceTree = "<group>";
 		};
+		6E0390242F4F8A7700A5A1F7 /* Media */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Media;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +52,7 @@
 		6E038FEC2F4F7E5B00A5A1F7 = {
 			isa = PBXGroup;
 			children = (
+				6E0390242F4F8A7700A5A1F7 /* Media */,
 				6E038FF72F4F7E5B00A5A1F7 /* FireChat */,
 				6E038FF62F4F7E5B00A5A1F7 /* Products */,
 			);
@@ -77,6 +83,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				6E038FF72F4F7E5B00A5A1F7 /* FireChat */,
+				6E0390242F4F8A7700A5A1F7 /* Media */,
 			);
 			name = FireChat;
 			packageProductDependencies = (
