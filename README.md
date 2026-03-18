@@ -89,8 +89,8 @@ service cloud.firestore {
 
 <p align="center">
   <img src="Media/Screenshot1.png" width="32%" alt="Conversation List">
-  <img src="Screenshot3.png"    width="32%" alt="Chat Screen">
-  <img src="Screenshot2.png"    width="32%" alt="Profile View">
+  <img src="Media/Screenshot3.png"    width="32%" alt="Chat Screen">
+  <img src="Media/Screenshot2.png"    width="32%" alt="Profile View">
 </p>
 
 <p align="center">
